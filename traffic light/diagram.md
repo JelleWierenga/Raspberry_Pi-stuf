@@ -1,1 +1,1 @@
-![img.png](../images/img.png)
+![img.png](../images/traffic_light.png)
